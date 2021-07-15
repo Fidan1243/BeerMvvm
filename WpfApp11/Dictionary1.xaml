@@ -1,0 +1,19 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <FontWeight x:Key="TheF">ExtraBold</FontWeight>
+    <Style TargetType="Button">
+
+        <Setter Property="Margin" Value="5"></Setter>
+        <Setter Property="FontWeight" Value="ExtraBold"></Setter>
+        <Setter Property="Foreground" Value="White"></Setter>
+        <Setter Property="FontSize" Value="25"></Setter>
+        <Setter Property="Background" Value="Bisque"></Setter>
+    </Style>
+    <Style TargetType="Label">
+        <Setter Property="FontFamily" Value="Ink Free"></Setter>
+        <Setter Property="FontSize" Value="20"></Setter>
+    </Style>
+    
+
+</ResourceDictionary>
