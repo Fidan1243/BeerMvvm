@@ -17,7 +17,7 @@ namespace WpfApp11.Repository
                 {
                     Id=1,
                     Name="Baltika",
-                    ImagePath = "C:/Users/User/source/repos/WpfApp11/WpfApp11/Images/beer1.jpg",
+                    ImagePath = "Images/beer1.jpg",
                     Volume=0.6,
                     Price=5.4,
                     Stock = 5
@@ -26,7 +26,7 @@ namespace WpfApp11.Repository
                 {
                     Id=2,
                     Name="Coor Lights",
-                    ImagePath = "C:/Users/User/source/repos/WpfApp11/WpfApp11/Images/beer2.jpeg",
+                    ImagePath = "Images/beer2.jpeg",
                     Volume=1,
                     Price=6.4,
                     Stock = 3
@@ -35,7 +35,7 @@ namespace WpfApp11.Repository
                 {
                     Id=3,
                     Name="Miller",
-                    ImagePath = "C:/Users/User/source/repos/WpfApp11/WpfApp11/Images/beer3.png",
+                    ImagePath = "Images/beer3.png",
                     Volume=1.6,
                     Price=9.1,
                     Stock = 6
@@ -44,7 +44,7 @@ namespace WpfApp11.Repository
                 {
                     Id=4,
                     Name="Singha",
-                    ImagePath = "C:/Users/User/source/repos/WpfApp11/WpfApp11/Images/beer4.jpg",
+                    ImagePath = "Images/beer4.jpg",
                     Volume=2.6,
                     Price=10.8,
                     Stock = 9
