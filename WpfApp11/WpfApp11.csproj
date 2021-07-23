@@ -123,10 +123,10 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Images\beer1.jpg" />
-    <Resource Include="Images\beer2.jpeg" />
-    <Resource Include="Images\beer3.png" />
-    <Resource Include="Images\beer4.jpg" />
+    <Resource Include="Views\Images\beer1.jpg" />
+    <Resource Include="Views\Images\beer2.jpeg" />
+    <Resource Include="Views\Images\beer3.png" />
+    <Resource Include="Views\Images\beer4.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
